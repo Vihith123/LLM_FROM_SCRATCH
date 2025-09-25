@@ -16,3 +16,6 @@ Complete self-attention mechanisms with detailed comments
 Causal masking for language modeling tasks
 Educational focus with step-by-step computations
 Comparison examples between different attention types
+
+
+We also Created the Layer Normailzation which helps in the stability of training.
